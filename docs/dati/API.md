@@ -10,7 +10,7 @@ Ma come trovarlo? Nello specifico dataset cliccando nella voce di menu "Data API
 
 Nella pagina che si aprirà si legge:
 
-![](imgs/resource_destinati_completi.png)](/imgs/resource_destinati_completi.png)
+[![](imgs/resource_destinati_completi.png)](/imgs/resource_destinati_completi.png)
 
 Quindi, ad esempio, nel caso del dataset "[immobili destinati versione completa](http://www.confiscatibene.it/it/dataset/openregio/resource/6af9fa81-1421-4bff-8ec4-5528c815cf21#{})" il nostro ID è:
 
