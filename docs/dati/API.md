@@ -6,11 +6,11 @@ Ad ogni singolo dataset presente nella sezione [Open Data](http://www.confiscati
 
 Ma come trovarlo? Nello specifico dataset cliccando nella voce di menu "Data API" come indicato di seguito:
 
-[![](/assets/image.png)](http://gitlab.ondata.it/confiscatibene/cb2/uploads/320ccc04bb82b02245fa5bfcbc137273/image.png)
+[![](imgs/data_api_button.png)](/imgs/data_api_button.png)
 
 Nella pagina che si aprirà si legge:
 
-![](/assets/resource_destinati_completi.png)
+![]()
 
 Quindi, ad esempio, nel caso del dataset "[immobili destinati versione completa](http://www.confiscatibene.it/it/dataset/openregio/resource/6af9fa81-1421-4bff-8ec4-5528c815cf21#{})" il nostro ID è:
 
@@ -37,4 +37,3 @@ Modificando il formato di output in XML avremmo quindi:
 [http://www.confiscatibene.it/it/api/action/datastore/search.xml?resource\_id=6af9fa81-1421-4bff-8ec4-5528c815cf21&filters\[PRO\_COM\]=82064&limit=500](http://www.confiscatibene.it/it/api/action/datastore/search.xml?resource_id=6af9fa81-1421-4bff-8ec4-5528c815cf21&filters[PRO_COM]=82064&limit=500)
 
 Per ulteriori dettagli qui la documentazione completa [http://dkan.readthedocs.io/en/stable/apis/datastore-api.html](http://dkan.readthedocs.io/en/stable/apis/datastore-api.html)
-
